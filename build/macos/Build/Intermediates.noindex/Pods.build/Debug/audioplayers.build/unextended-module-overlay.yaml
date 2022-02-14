@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/user/workspace/flutter/test/darkness_dungeon/build/macos/Build/Products/Debug/audioplayers/audioplayers.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/user/workspace/flutter/test/darkness_dungeon/build/macos/Build/Intermediates.noindex/Pods.build/Debug/audioplayers.build/unextended-module.modulemap",
+    }]
+  }]
+}

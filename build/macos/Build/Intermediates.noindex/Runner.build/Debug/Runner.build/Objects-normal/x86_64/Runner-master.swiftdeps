@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "a2c1b43a5043cc21a1c5bafb8322a95d2234b53d346373612eef411ef89b6f2e"
+build_start_time: [1644799036, 200963020]
+build_end_time: [1644799045, 12626171]
+inputs:
+  "/Users/user/workspace/flutter/test/darkness_dungeon/macos/Flutter/GeneratedPluginRegistrant.swift": [1644798988, 86992025]
+  "/Users/user/workspace/flutter/test/darkness_dungeon/macos/Runner/AppDelegate.swift": [1632487760, 315030813]
+  "/Users/user/workspace/flutter/test/darkness_dungeon/macos/Runner/MainFlutterWindow.swift": [1632487760, 318752288]
